@@ -1,0 +1,43 @@
+body {
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke}
+   h1 {
+    color: rgb(52, 94, 87);
+    margin-left: 168px;
+    margin-top: 20px}
+    
+.first{
+        margin-left: 20px;
+        color: rgb(140, 188, 216) ;
+    
+}
+.second{
+    margin-left: 20px;
+        background-color:  rgb(140, 188, 216);
+        color: white;
+
+}
+.third{
+    margin-left: 10px;
+    font-size: 24px;
+    background-color:  lightgray;
+}
+.fourth{
+    margin-left: 10px;    
+    font-size: 24px;
+    background-color: lightgray;
+}
+.fifth{
+    margin-left: 10px;
+    font-size: 24px;
+    background-color:  lightgray;
+}
+.sixth{
+    margin-left: 10px;
+        font-size: 24px;
+    background-color: lightgray;
+}
+p{
+    margin-left: 20px;
+}
